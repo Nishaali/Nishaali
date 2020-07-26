@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am a bibliophile who loves to explore new domains and enrich my skillset.An introvert trying to break boundaries .
 
-I am a final year Computer Engineering student looking for full time opportunities. I am proficient in C++,Java and Python languages. My database skills include Oracle SQL and MongoDB. As a former summer Analyst at Citi I am also experienced in working with Spring Boot and REST services.
+I am a final year Computer Engineering student looking for full time opportunities. I am proficient in C++,Java and Python languages. My database skills include Oracle SQL and MongoDB. As a former summer Analyst at Citi I am also experienced in working with Spring Boot and REST services. I am also proficient in HTML,CSS,PHP and Javascript.
 
 Note: If not by my computer, you can find me enjoying a book or listening to Kpop while sipping a cup of coffee.
