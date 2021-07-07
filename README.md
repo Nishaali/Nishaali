@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a bibliophile who loves to explore new domains and enrich my skillset.An introvert trying to break boundaries .
+I am a bibliophile who loves to explore new domains and enrich my skillset. 
 
 I am a final year Computer Engineering student looking for full time opportunities. I am proficient in C++, Java and Python languages. My database skills include Oracle SQL and MongoDB. I am also experienced in working with Spring Boot and REST services and proficient in HTML,CSS,PHP and Javascript. I have worked as a summer analyst in Citi.
 
